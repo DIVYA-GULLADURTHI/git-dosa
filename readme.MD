@@ -20,3 +20,4 @@
 * Tomato and Panner scrambled 
 * Ghee 
 * Chicken Masala 
+* Garam Masala 
