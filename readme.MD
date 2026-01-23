@@ -18,6 +18,10 @@
 * Panner Curry 
 * Carrot Onion 
 * Tomato and Panner scrambled 
+<<<<<<< HEAD
 * Ghee 
 * Chicken Masala 
 * Garam Masala 
+=======
+ 
+>>>>>>> parent of e3541ac (Ghee)
