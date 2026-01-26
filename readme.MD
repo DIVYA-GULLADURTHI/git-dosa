@@ -6,8 +6,6 @@
 
 # karam Dosa 
 * Dosa Batter 
-<<<<<<< HEAD
-<<<<<<< HEAD
 * Erra karam  
 
 # Egg Dosa 
@@ -18,9 +16,7 @@
 # Ghee Karam
 * Dosa Batter 
 * Ghee 
-=======
 * Erra karam  
->>>>>>> ff13488 (Karam dosa started, Erra karam added)
-=======
 * karam  
->>>>>>> dd1ea76 (Karam dosa started, karam added)
+
+
