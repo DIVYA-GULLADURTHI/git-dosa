@@ -2,6 +2,7 @@
 
 # Plain Dosa 
 * Dosa Batter 
+<<<<<<< Updated upstream
 * Light oil 
 
 # karam Dosa 
@@ -25,3 +26,6 @@
 =======
  
 >>>>>>> parent of e3541ac (Ghee)
+=======
+* Light oil 
+>>>>>>> Stashed changes
